@@ -1,6 +1,6 @@
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&section=header&text=Jack&desc=Front-end&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=1177aa&height=200&section=header&text=Jack&desc=Front-end&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling&fontColor=ffffff)
 
 <div align=center>
 <!--소개-->
