@@ -16,11 +16,9 @@ Hi, I am trying to become a awesome developer😎
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/StyledComponents-CC6699?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS
--06B6D4?style=flat&logo=Tailwind CSS
-&logoColor=white"/>
+  <img src="https://img.shields.io/badge/StyledComponents-CC6699?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
    <br/>
   <!--백-->
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
